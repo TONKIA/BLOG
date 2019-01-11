@@ -4,11 +4,11 @@
 
 # Site
 title: TONKIA BLOG
-subtitle: 小凯的技术博客
+subtitle: 阿拉斯加哈哈哈
 description:
 keywords:
 author: TONKIA
-language: zh-CN
+language: zh-Hans
 timezone:
 
 # URL
@@ -79,5 +79,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/TONKIA/TONKIA.github.io.git
+  repository:
+    Github: https://github.com/TONKIA/TONKIA.github.io.git
+    Server: git@www.tonkia.xyz:/home/git/blog.git
   branch: master
